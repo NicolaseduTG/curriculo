@@ -9,6 +9,7 @@ p{
 img{
     width: 250px;
     height: 300px;
+    border-radius: 100%;
 }
 
 .container {
@@ -83,6 +84,12 @@ img{
     font-weight: bolder;
 }
 
+.titlep{
+    color: rgb(255, 158, 46);
+    font-size: 26px;
+    font-weight: bolder;
+}
+
 .text{
     font-size: 11px;
     line-height: 15px;
@@ -91,20 +98,23 @@ img{
 
 h1{
     color: rgb(255, 158, 46);
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bolder;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h2{
-    font-size: 15px;
+    font-size: 20px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .textp{
-    font-size: 15px;
+    font-size: 17px;
     font-weight: bolder;
 }
 
+.texto{
+    font-size: 15px;
+}
